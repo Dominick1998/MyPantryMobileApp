@@ -1,0 +1,124 @@
+<resources>
+    <string name="sort_btn">Sort By</string>
+    <string name="app_name">MyPantry</string>
+    <string name="title_home">Home</string>
+    <string name="title_grocery">Grocery List</string>
+    <string name="item">Item:</string>
+    <string name="quantity">Quantity:</string>
+    <string name="sku">SKU:</string>
+    <string name="exp_date">Expiration Date:</string>
+    <string name="location">Location</string>
+    <string name="pantry_location">Pantry</string>
+    <string name="fridge_location">Fridge</string>
+    <string name="freezer_location">Freezer</string>
+    <string name="notes">Notes:</string>
+    <string name="done">Done</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_sku">SKU</string>
+    <string name="sort_exp_date">Expiration Date</string>
+    <string name="sort_quantity">Quantity</string>
+    <string name="sort_location">Location</string>
+    <string name="recipe_rec">Recommended Recipes</string>
+    <string name="recipe_ingredients">Ingredients:</string>
+    <string name="recipe_instructions">Instructions:</string>
+
+
+    <string name="name_text1"> German Pancake</string>
+    <string name="name_text2"> Cheesy Carrots</string>
+    <string name="name_text3"> Grasshopper</string>
+
+
+    <string name="ingredient_text1">
+        Eggs (4)
+        \nMilk (1 cup)
+        \nSalt (1/4 tsp)
+        \nButter
+        \nFlour (1 cup)
+        \nPowdered Suger
+    </string>
+    <string name="ingredient_text2">
+        Sliced Carrots (2 lb)
+        \nVelveeta Cheese (20 oz)
+        \nButter
+        \nOnion Powder
+        \nSalt
+        \nPepper
+
+     <!--   Uncooked Rice (1/2 cup)
+        \nExtra-Virgin Olive Oil(2 tbsp. plus more for drizzling)
+        \nChopped Medium Onion(1)
+        \nTomato Paste(2 tbsp.)
+        \nMinced Garlic(3 cloves)
+        \nGround Beef(1 lb.)
+        \nCanned Diced Tomatoes(14.5-oz.)
+        \nDried Oregano(1 1/2 tsp.)
+        \nBell Peppers(6) - Tops and Cores Removed
+        \nShredded Monterey Jack (1 c.) -->
+    </string>
+    <string name="ingredient_text3">
+        Green Creme de Menthe (3/4 oz.)
+        \nWhite Creme de Cacao (3/4 oz.)
+        \nLight Cream/Single Cream - UK (3/4 oz.)
+
+        <!--Butter (4 tbsp.)
+        \nLemon (1)
+        \nFinely Chopped Yellow Onion (1)
+        \nFinely Chopped Garlic (2 Cloves)
+        \nArborio Rice (1 cup)
+        \nChicken or Vegetable Broth (3 1/2 cups)
+        \nKosher Salt (1 1/2 tsp.)
+        \nGrated Parmesan (2 oz.), plus more for serving (1/2 c.)
+        \nFrozen peas, thawed (1 cup)
+        \nFreshly ground black pepper (1/2 tsp.)
+        \nChopped fresh parsley, for garnish-->
+    </string>
+
+
+    <string name="instruction_text1">
+        1.) Preheat Oven (425 degrees)
+        \n2.) Combine Eggs, Salt, Flour, and Milk
+        \n3.) Butter the Pan
+        \n4.) Bake (15 - 20 min.)
+        \n5.) Sprinkle Powdered Sugar
+        \n6.) Add Fruit or Whipped Cream as desired
+    </string>
+    <string name="instruction_text2">
+        1.) Butter all sides and layer carrots
+        \n2.) Layer sliced butter and Velveeta
+        \n3.) Season
+        \n4.) Repeat until pan full and bake at 350(stir occasionally)
+
+        <!--1.) Preheat Oven (375°F)
+        \n2.) Melt 2 tablespoons butter in a Dutch oven medium-high heat.
+        \n3.) Remove two 1"-thick strips of zest from the lemon.
+        \n4.) Add onion and lemon zest to the butter and cook, stirring often, until softened, about 5 minutes.
+        \n5.) Add garlic and cook, stirring, about 1 minute.
+        \n6.) Stir in rice, broth, and 1 teaspoon salt.
+        \n7.) Bring to a simmer, cover, and transfer to the oven.
+        \n8.) Bake until rice, 20 minutes.
+        \n9.) Remove lid and stir Parmesan, peas, pepper, remaining 2 tablespoons butter and ½ teaspoon salt, stirring until butter is melted and peas warm.
+        \n10.) Cut the lemon in half and squeeze half of juice into the risotto
+        \n11.) Stir.
+        \n12.) Remove lemon zest and serve topped with more Parmesan and parsley.-->
+    </string>
+    <string name="instruction_text3">
+        1.) Fill cocktail shaker with ice
+        \n2.) Pour ingredients
+        \n3.) Shake
+        \n4.) Strain into glass
+        \n5.) Garnish - sprig of mint
+
+        <!--1.) Preheat Oven (375°F.)
+        \n2.) Melt 2 tablespoons butter in a Dutch oven medium-high heat.
+        \n3.) Remove two 1"-thick strips of zest from the lemon.
+        \n4.) Add onion and lemon zest to the butter and cook, stirring often, until softened, about 5 minutes.
+        \n5.) Add garlic and cook, stirring, about 1 minute.
+        \n6.) Stir in rice, broth, and 1 teaspoon salt.
+        \n7.) Bring to a simmer, cover, and transfer to the oven.
+        \n8.) Bake until rice, 20 minutes.
+        \n9.) Remove lid and stir Parmesan, peas, pepper, remaining 2 tablespoons butter and ½ teaspoon salt, stirring until butter is melted and peas warm.
+        \n10.) Cut the lemon in half and squeeze half of juice into the risotto
+        \n11.) Stir.
+        \n12.) Remove lemon zest and serve topped with more Parmesan and parsley.-->
+    </string>
+</resources>
